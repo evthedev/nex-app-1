@@ -64,7 +64,7 @@
 
     <script>
         $.getJSON(
-          'http://163.172.157.87:7877/nxt', 
+          'http://181.231.121.180:7876/nxt', 
           {"requestType": "searchDGSGoods", "tag": "domains"}, function(request) 
         {
           var rows;
